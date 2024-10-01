@@ -1,22 +1,13 @@
 {
-  "students": [
+  "Question": [
     {
-      "id": "ef48",
-      "name": "",
-      "number": "",
-      "course": "full stack"
-    },
-    {
-      "id": "2741",
-      "name": "java",
-      "number": "7777996541",
-      "course": "backend"
-    },
-    {
-      "id": "3d71",
-      "name": "mongodb",
-      "number": "65",
-      "course": "backend"
+      "id": "cb53",
+      "Que": "What is the capital of France?",
+      "Op1": "Berlin",
+      "Op2": "Madrid",
+      "Op3": "Paris",
+      "Op4": "Rome",
+      "Ans": "Paris"
     }
   ]
 }
